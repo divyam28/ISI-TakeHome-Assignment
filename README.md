@@ -2,6 +2,8 @@
 
 ## Instructions (Windows)
 
+Pre-requisites - Docker, Python
+
 ### Step 1: Clone Repo
 
 ``` 
